@@ -18,7 +18,7 @@ const formatNumber = (num: number, digits: number): string => {
   return item ? (num / item.value).toFixed(digits).replace(rx, "$1") + item.symbol : "0";
 };
 
-const formatNumberIndian = (number:number, currency: string = ''): string => {
+const formatNumberIndian = (number:number): string => {
   if (isNaN(number)) {
     return '₹0.00';
   }
