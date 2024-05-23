@@ -1,6 +1,6 @@
 {
   "name": "currency-formatters",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Empower your applications with our comprehensive currency formatter npm package. Seamlessly handle currency and number formatting with ease, whether you're dealing with monetary values or numeric representations. Our versatile library supports a wide range of functionalities, including currency conversion, numeral abbreviations, and numeric representation in various numbering systems like Indian, European, and USA formats. Simplify monetary formatting tasks and ensure clear and consistent display of numerical data with our efficient API. From currency notation to numeral display formatting, our package offers the flexibility and precision required for diverse international applications. Join developers worldwide in enhancing your projects with our robust currency formatting solution.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
