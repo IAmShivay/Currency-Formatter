@@ -1,5 +1,5 @@
-import { useMemo } from 'react';
-import { formatCurrency, CurrencyFormatterOptions } from './formatter';
+import { useMemo } from "react";
+import { formatCurrency, CurrencyFormatterOptions } from "./formatter";
 
 export const useCurrencyFormatter = (options: CurrencyFormatterOptions) => {
   return useMemo(() => {
