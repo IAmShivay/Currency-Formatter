@@ -78,7 +78,7 @@ const formatINR = useCurrencyFormatter({
   currency: '₹'
 });
 
-console.log(formatINR(100000)); // Outputs: ₹1,00,000.00
+console.log(formatINR(100000)); // Outputs: ₹1L
 
 ```
 # Contributions
