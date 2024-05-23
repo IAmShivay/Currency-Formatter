@@ -6,7 +6,7 @@
 
 `currency-formatter` is a TypeScript and React utility package for formatting numbers as currencies using various numbering systems (Indian, US, European) with appropriate currency symbols.
 
-![currency-formatters-example](example.png)
+![example](https://github.com/IAmShivay/Currency-Formatter/assets/109723638/745f4339-3a1d-4d14-b201-9f77a97229ed)
 
 ## Features
 
